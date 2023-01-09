@@ -1,0 +1,38 @@
+{
+  "@@last_modified": "2023-01-09T14:59:03.760830",
+  "email": "E-mail",
+  "@email": {
+    "description": "email label",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "password label",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "cancel": "cancel",
+  "@cancel": {
+    "description": "cancel popup text",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "ok": "ok",
+  "@ok": {
+    "description": "ok popup text",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "clear": "clear",
+  "@clear": {
+    "description": "clear popup text",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}
