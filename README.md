@@ -15,3 +15,7 @@ dependencies:
 ```
 
 - Add the delegate `PackageLocalizations.delegate` in `localizationsDelegates` of MaterialApp.
+
+## Demo
+
+https://github.com/deepak-agendaboa/packgae_localization/blob/main/Screen%20Recording%202023-01-09%20at%203.29.33%20PM.mov
