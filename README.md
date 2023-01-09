@@ -7,8 +7,11 @@ are translated already. It will use the localization based on your main project'
 
 - Add the package into your projects pubspec.yaml file:
 
-```dart
-
+```
+dependencies:
+  package_localization:
+    git:
+      url: https://github.com/deepak-agendaboa/packgae_localization
 ```
 
 - Add the delegate `PackageLocalizations.delegate` in `localizationsDelegates` of MaterialApp.
