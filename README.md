@@ -15,6 +15,8 @@ dependencies:
 ```
 
 - Add the delegate `PackageLocalizations.delegate` in `localizationsDelegates` of MaterialApp.
+- Navigate to `PackageLocalizationDemo` screen from your project. It will show you the localization
+  based on the locale.
 
 ## Demo
 
